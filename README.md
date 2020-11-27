@@ -15,5 +15,3 @@ Accurate, Adaptable, Capable, Confident, Dedicated, Efficient, Energetic, Hardwo
 
 ## 📫 Status
 ![Harun's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=harunagic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true)
-
-----
