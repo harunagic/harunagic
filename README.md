@@ -14,6 +14,6 @@ Accurate, Adaptable, Capable, Confident, Dedicated, Efficient, Energetic, Hardwo
 - [Hitna Pomoć](https://play.google.com/store/apps/details?id=com.hitnapomoc.kts&hl=en&gl=US)  🚑
 
 ## 📫 Status
-[![Harun's Github Stats](https://github-readme-stats.vercel.app/api?username=harunagic&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harun's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=harunagic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true)
 
 ----
