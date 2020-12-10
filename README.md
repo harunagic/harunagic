@@ -1,5 +1,5 @@
 <h2 >Hi folks! My name is Harun. 👋</h2>
-<p>Highly motivated and organized with excellent research and problem-solving skills.</p>
+<p>Highly motivated and organized Mobile developer with excellent research and problem-solving skills.</p>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://ba.linkedin.com/in/harun-agi%C4%87-958aa7142) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ageechx@gmail.com)  [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)
 ](https://www.instagram.com/_ageech)
