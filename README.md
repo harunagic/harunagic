@@ -15,4 +15,5 @@
 - [Hitna Pomoć](https://apps.apple.com/us/app/hitna-pomoc-sarajevo/id1540998868)  🚑
 
 ## 📫 Status
-![Harun's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=harunagic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true)
+![Harun's Github Stats](https://github-readme-stats.vercel.app/api?username=harunagic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+
