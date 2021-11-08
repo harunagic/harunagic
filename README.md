@@ -5,7 +5,7 @@
 
 ## 💼 Currently working at/as
 - [Ministry of programming](https://mop.ba/) 💼 
-- [Open World: Freelance](https://ba.linkedin.com/in/harun-agi%C4%87-958aa7142)
+- [Open World: Freelance](https://www.linkedin.com/in/harunagic/)
 
 ## 💻 Currently/done working on
 - [Amuse](https://play.google.com/store/apps/details?id=io.amuse.android&hl=en&gl=US)  🎼
