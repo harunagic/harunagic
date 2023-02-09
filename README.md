@@ -1,7 +1,7 @@
 <h2 >Hi folks! My name is Harun. 👋</h2>
 <p>Highly motivated and organized Mobile developer with excellent research and problem-solving skills.</p>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://ba.linkedin.com/in/harun-agi%C4%87-958aa7142) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ageechx@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://ba.linkedin.com/in/harun-agi%C4%87-958aa7142) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harun@smartapps.ba)
 
 ## 💼 Currently working at/as
 - [Open World: Freelance](https://www.linkedin.com/in/harunagic/)
