@@ -4,10 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://ba.linkedin.com/in/harun-agi%C4%87-958aa7142) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ageechx@gmail.com)
 
 ## 💼 Currently working at/as
-- [Ministry of programming](https://mop.ba/) 💼 
 - [Open World: Freelance](https://www.linkedin.com/in/harunagic/)
 
 ## 💻 Currently/done working on
+- [Hitch](https://play.google.com/store/apps/details?id=com.hitchtechnologies.hitch&hl=en&gl=US) 🚗
 - [Amuse](https://play.google.com/store/apps/details?id=io.amuse.android&hl=en&gl=US)  🎼
 - [MIOO](https://play.google.com/store/apps/details?id=cc.mioo&hl=en&gl=US) 🚴🏻
 - [ThermoFLUX](https://apps.apple.com/us/app/thermoflux/id1587484124) 
